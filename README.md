@@ -18,3 +18,7 @@ python manage.py createsuperuser
  ```
 python manage.py runserver.
 ```
+
+### View Project
+
+<a href="http://banicadaniel.pythonanywhere.com/" target="_blank">See the project</a>
